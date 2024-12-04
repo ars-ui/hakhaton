@@ -1,0 +1,17 @@
+.text1{
+    margin-top: 100px;
+}
+.img1{
+    margin-top: 100px;
+    height: 500px;
+    width: 500px;
+    margin-left: 100px;
+}
+.text3{
+display: flex;
+
+}
+.text2{
+    font-size: 50px;
+    margin:100px;
+}
